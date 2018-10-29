@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../cn.itcast/springboot/springboot.iml" filepath="$PROJECT_DIR$/../cn.itcast/springboot/springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cn.itcast/springboot_date/springboot_date.iml" filepath="$PROJECT_DIR$/../cn.itcast/springboot_date/springboot_date.iml" />
+    </modules>
+  </component>
+</project>
